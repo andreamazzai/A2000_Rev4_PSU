@@ -12,9 +12,13 @@ Unable to find any documentation online, and knowing that my analog electronics 
 
 Questo repository contiene:
 
-* Schema [KiCad](schematics/nome_del_file.zip)
-* Schema [PDF](schematics/nome_del_file.pdf)
+* [KiCad](schematics/nome_del_file.zip) schematics - coming soon!
+* [PDF](schematics/A2000_Rev4_PSU.pdf) schematics
 * Immagini
+
+Current issues:
+
+* Some components still miss their values and correct identification (i.e. Zener diode models, or electrolytic capacitor voltages)
 
 <a id="ita"></a>
 
