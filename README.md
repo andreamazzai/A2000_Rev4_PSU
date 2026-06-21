@@ -49,12 +49,24 @@ Tra le altre cose da segnalare:
 
 Questo repository contiene:
 
-* Schema [KiCad](shttps://github.com/andreamazzai/A2000_Rev4_PSU/releases)
+* Schema [KiCad](https://github.com/andreamazzai/A2000_Rev4_PSU/releases)
 * Schema [PDF](schematics/A2000_Rev4_PSU.pdf)
 * Altre immagini - in arrivo a breve!
 
-<img src="assets/IMG_0881.jpeg" alt="" width="400">
-<img src="assets/mistero-1.jpeg" alt="" width="400">
+## Pictures / foto - Alimentatore A2000 Revision 4
+
+<table>
+  <tr>
+    <td><img src="assets/mistero-1.jpeg" width="300"></td>
+    <td><img src="assets/mistero-2.jpeg" width="300"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/mistero-3.jpeg" width="300"></td>
+    <td><img src="assets/mistero-4.jpeg" width="300"></td>
+  </tr>
+</table>
+<img src="assets/IMG_0881.jpeg" alt="" width="400">ù
+<img src="assets/" alt="" width="400">
 <img src="assets/mistero-2.jpeg" alt="" width="400">
 <img src="assets/mistero-3.jpeg" alt="" width="400">
 <img src="assets/mistero-4.jpeg" alt="" width="400">
