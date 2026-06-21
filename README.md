@@ -65,13 +65,28 @@ Questo repository contiene:
     <td><img src="assets/mistero-4.jpeg" width="300"></td>
   </tr>
 </table>
-<img src="assets/IMG_0881.jpeg" alt="" width="400">ù
+<table>
+  <tr>
+    <td><img src="assets/IMG_0881.jpeg" width="300"></td>
+    <td><img src="assets/psu-1.jpeg" width="300"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/psu-2.jpeg" width="300"></td>
+    <td><img src="assets/psu-3.jpeg" width="300"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/psu-4.jpeg" width="300"></td>
+    <td><img src="assets/psu-5.jpeg" width="300"></td>
+  </tr>
+</table>
+
+<img src="assets/" alt="" width="400">ù
 <img src="assets/" alt="" width="400">
 <img src="assets/mistero-2.jpeg" alt="" width="400">
 <img src="assets/mistero-3.jpeg" alt="" width="400">
 <img src="assets/mistero-4.jpeg" alt="" width="400">
-<img src="assets/psu-1.jpeg" alt="" width="400">
-<img src="assets/psu-2.jpeg" alt="" width="400">
-<img src="assets/psu-3.jpeg" alt="" width="400">
+<img src="assets/" alt="" width="400">
+<img src="assets/" alt="" width="400">
+<img src="assets/" alt="" width="400">
 <img src="assets/psu-4.jpeg" alt="" width="400">
 <img src="assets/psu-5.jpeg" alt="" width="400">
