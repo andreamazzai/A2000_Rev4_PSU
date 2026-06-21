@@ -57,6 +57,20 @@ Questo repository contiene:
 
 <table>
   <tr>
+    <td><img src="assets/backlit.jpeg" width="350"></td>
+    <td><img src="assets/IMG_0881.jpeg" width="350"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/psu-3.jpeg" width="350"></td>
+    <td><img src="assets/psu-5.jpeg" width="350"></td>
+  <tr>
+  </tr>
+    <td><img src="assets/psu-4.jpeg" width="350"></td>
+    <td><img src="assets/psu-2.jpeg" width="350"></td>
+  </tr>
+</table>
+<table>
+  <tr>
     <td><img src="assets/mistero-1.jpeg" width="350"></td>
     <td><img src="assets/mistero-2.jpeg" width="350"></td>
   </tr>
@@ -66,16 +80,4 @@ Questo repository contiene:
   </tr>
 </table>
 <table>
-  <tr>
-    <td><img src="assets/IMG_0881.jpeg" width="350"></td>
-    <td><img src="assets/psu-3.jpeg" width="350"></td>
-  </tr>
-  <tr>
-    <td><img src="assets/psu-1.jpeg" width="350"></td>
-    <td><img src="assets/psu-2.jpeg" width="350"></td>
-  </tr>
-  <tr>
-    <td><img src="assets/psu-4.jpeg" width="350"></td>
-    <td><img src="assets/psu-5.jpeg" width="350"></td>
-  </tr>
-</table>
+
