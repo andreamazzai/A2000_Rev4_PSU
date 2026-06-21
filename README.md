@@ -16,7 +16,7 @@ In this repo:
 
 * [KiCad](https://github.com/andreamazzai/A2000_Rev4_PSU/releases) schematic
 * [PDF](schematics/A2000_Rev4_PSU.pdf) schematic
-* More pictures - coming soon!
+* [Pictures(pictures--foto---alimentatore-a2000-revision-4)]
 
 Among other things to report:
 
@@ -51,7 +51,7 @@ Questo repository contiene:
 
 * Schema [KiCad](https://github.com/andreamazzai/A2000_Rev4_PSU/releases)
 * Schema [PDF](schematics/A2000_Rev4_PSU.pdf)
-* Altre immagini - in arrivo a breve!
+* Immagini
 
 ## Pictures / foto - Alimentatore A2000 Revision 4
 
