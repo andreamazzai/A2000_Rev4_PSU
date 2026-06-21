@@ -14,13 +14,17 @@ Unable to find any documentation online, and knowing that my analog electronics 
 
 In this repo:
 
-* [KiCad](https://github.com/andreamazzai/A2000_Rev4_PSU/releases) schematic - coming soon!
+* [KiCad](https://github.com/andreamazzai/A2000_Rev4_PSU/releases) schematic
 * [PDF](schematics/A2000_Rev4_PSU.pdf) schematic
-* Pictures - coming soon!
+* More pictures - coming soon!
 
-Current issues:
+Among other things to report:
 
-* Some components still miss their values and correct identification (i.e. Zener diode models, or electrolytic capacitor voltages)
+* Upon power-on, I saw a blue flash of light inside.
+* The fuse blew.
+* Q2 BUV48A is definitely gone (all pins shorted).
+* A 2200uF capacitor is faulty
+* There's about 300 ohms across the fan terminals.
 
 <a id="ita"></a>
 
@@ -47,4 +51,15 @@ Questo repository contiene:
 
 * Schema [KiCad](shttps://github.com/andreamazzai/A2000_Rev4_PSU/releases)
 * Schema [PDF](schematics/A2000_Rev4_PSU.pdf)
-* Immagini - in arrivo a breve!
+* Altre immagini - in arrivo a breve!
+
+<img src="assets/IMG_0881.jpeg" alt="" width="400">
+<img src="assets/mistero-1.jpeg" alt="" width="400">
+<img src="assets/mistero-2.jpeg" alt="" width="400">
+<img src="assets/mistero-3.jpeg" alt="" width="400">
+<img src="assets/mistero-4.jpeg" alt="" width="400">
+<img src="assets/psu-1.jpeg" alt="" width="400">
+<img src="assets/psu-2.jpeg" alt="" width="400">
+<img src="assets/psu-3.jpeg" alt="" width="400">
+<img src="assets/psu-4.jpeg" alt="" width="400">
+<img src="assets/psu-5.jpeg" alt="" width="400">
