@@ -1,5 +1,12 @@
 # ENG - A2000 Revision 4 Power Supply Unit
 
+<table>
+  <tr>
+    <td><img src="assets/low-res-schema.jpg" width="400"></td>
+    <td><img src="assets/low-res-top-view.jpg" width="400"></td>
+  </tr>
+</table>
+
 ## English
 
 * This Amiga was purchased by its first owner on October 3, 1987.
@@ -68,26 +75,26 @@ Questo repository contiene:
 
 <table>
   <tr>
-    <td><img src="assets/IMG_0881.jpeg" width="350"></td>
-    <td><img src="assets/backlit.jpeg" width="350"></td>
+    <td><img src="assets/IMG_0881.jpeg" width="400"></td>
+    <td><img src="assets/backlit.jpeg" width="400"></td>
   </tr>
   <tr>
-    <td><img src="assets/psu-3.jpeg" width="350"></td>
-    <td><img src="assets/psu-5.jpeg" width="350"></td>
+    <td><img src="assets/psu-3.jpeg" width="400"></td>
+    <td><img src="assets/psu-5.jpeg" width="400"></td>
   <tr>
   </tr>
-    <td><img src="assets/psu-4.jpeg" width="350"></td>
-    <td><img src="assets/psu-2.jpeg" width="350"></td>
+    <td><img src="assets/psu-4.jpeg" width="400"></td>
+    <td><img src="assets/psu-2.jpeg" width="400"></td>
   </tr>
 </table>
 <table>
   <tr>
-    <td><img src="assets/mistero-1.jpeg" width="350"></td>
-    <td><img src="assets/mistero-2.jpeg" width="350"></td>
+    <td><img src="assets/mistero-1.jpeg" width="400"></td>
+    <td><img src="assets/mistero-2.jpeg" width="400"></td>
   </tr>
   <tr>
-    <td><img src="assets/mistero-3.jpeg" width="350"></td>
-    <td><img src="assets/mistero-4.jpeg" width="350"></td>
+    <td><img src="assets/mistero-3.jpeg" width="400"></td>
+    <td><img src="assets/mistero-4.jpeg" width="400"></td>
   </tr>
 </table>
 <table>
