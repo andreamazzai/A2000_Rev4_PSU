@@ -16,6 +16,7 @@ In this repo:
 
 * [KiCad](https://github.com/andreamazzai/A2000_Rev4_PSU/releases) schematic
 * [PDF](schematics/A2000_Rev4_PSU.pdf) schematic
+* [PDF](schematics/Top-View.pdf) helpful drawing
 * [Pictures](#pictures--foto)
 
 Among other things to report:
@@ -51,7 +52,8 @@ Questo repository contiene:
 
 * Schema [KiCad](https://github.com/andreamazzai/A2000_Rev4_PSU/releases)
 * Schema [PDF](schematics/A2000_Rev4_PSU.pdf)
-* Immagini
+* Vista componenti [PDF](schematics/Top-View.pdf)
+* [Immagini](#pictures--foto)
 
 ## Pictures / foto
 
