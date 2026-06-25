@@ -1,4 +1,4 @@
-# ENG - A2000 Revision 4 Power Supply Unit
+# A2000 Revision 4 Power Supply Unit
 
 <table>
   <tr>
@@ -9,10 +9,10 @@
 
 ## English
 
+[**🇮🇹 click here for Italian**](#ita)
+
 * This Amiga was purchased by its first owner on October 3, 1987.
 * PSU P/N 380708-01
-
-[**🇮🇹 Italian follows**](#ita)
 
 ### Reverse Engineering the Amiga 2000 Rev. 4 Power Supply
 
