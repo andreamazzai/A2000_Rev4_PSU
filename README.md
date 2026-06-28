@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td><a href="schematics/A2000_Rev4_PSU.pdf"> <img src="assets/low-res-schema.jpg" width="400" ></a></td>
-    <td><a href="schematics/A2000_Rev4_PSU.pdf"> <img src="assets/low-res-top-view.jpg" width="400" ></a></td>
+    <td><a href="schematics/Top-View.pdf"> <img src="assets/low-res-top-view.jpg" width="400" ></a></td>
   </tr>
 </table>
 
