@@ -2,8 +2,8 @@
 
 <table>
   <tr>
-    <td><img src="assets/low-res-schema.jpg" width="400"></td>
-    <td><img src="assets/low-res-top-view.jpg" width="400"></td>
+    <td><a href="schematics/A2000_Rev4_PSU.pdf"> <img src="assets/low-res-schema.jpg" width="400" ></a></td>
+    <td><a href="schematics/A2000_Rev4_PSU.pdf"> <img src="assets/low-res-top-view.jpg" width="400" ></a></td>
   </tr>
 </table>
 
@@ -71,7 +71,7 @@ Questo repository contiene:
 * Vista componenti [PDF](schematics/Top-View.pdf)
 * [Immagini](#pictures--foto)
 
-# Pictures / Foto
+## Pictures / Foto
 
 <table>
   <tr>
